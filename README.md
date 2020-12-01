@@ -1,4 +1,4 @@
-# team-balancer
+# lol-team-balancer
 Initial version of a 5v5 team balancer/randomizer for League of Legends I wrote in Java.
 Doesn't use any APIs, only references a text file that I put the information into.
 Very messy, I was planning on updating this to be functional with a Discord bot,
